@@ -65,8 +65,12 @@ polymorphism then it is an Object-oriented programming language.
 
 ## 8) Similarity between structure and class?
 
+- Both are container types, meaning that they contain other types as members.
 
+- Both have members, which can include constructors, methods, properties, fields, constants, enumerations, events, and event handlers.
+- Both can implement interfaces.
 
 ## 9)when to use structure over class?
 - If the size of the instance is below 16 bytes.
+- Structures are preferred for object design for data storage like array.
 
