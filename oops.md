@@ -50,3 +50,23 @@ programming style, and applying object-oriented programming in those situations 
 - If a language is designed with the facilities specifically to support object-oriented programming having 4 features that is abstraction, encapsulation, inheritance,
 polymorphism then it is an Object-oriented programming language.
 -  It's the code that is object-oriented not the language.
+
+## 6)What is class?
+
+- It is a basic concept of Object-Oriented Programming.
+- Class is a blueprint of an object.
+- A class is a user defined datatype which define its properties and function.
+
+## 7) Structure vs class
+
+![image](https://user-images.githubusercontent.com/102239780/212487317-07f32a5a-e786-4d35-aa46-e56c5290af58.png)
+
+![image](https://user-images.githubusercontent.com/102239780/212488236-54aa8a5b-a9af-49b5-ab0a-8f45ccbf5ab0.png)
+
+## 8) Similarity between structure and class?
+
+
+
+## 9)when to use structure over class?
+- If the size of the instance is below 16 bytes.
+
