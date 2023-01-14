@@ -44,3 +44,9 @@ will be divide as classes.
 - ***Slower programs:*** Object-oriented programs are typically slower than procedure-based programs, as they typically require more instructions to be executed.
 - ***Not suitable for all types of problems:*** The problems like functional-programming style, logic-programming style, or procedure-based
 programming style, and applying object-oriented programming in those situations will not result in efficient programs. 
+
+## 5)When we say a language is object-oriented What does it mean?
+
+- If a language is designed with the facilities specifically to support object-oriented programming having 4 features that is abstraction, encapsulation, inheritance,
+polymorphism then it is an Object-oriented programming language.
+-  It's the code that is object-oriented not the language.
