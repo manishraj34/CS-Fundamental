@@ -18,6 +18,7 @@
     - OOP provides a clear structure for the programs
     - OOP helps to keep the JAVA code DRY "Don't Repeat Yourself", and makes the code easier to maintain, modify and debug
     - OOP makes it possible to create full reusable applications with less code and shorter development time
+    - It lowers the overall cost of development.
 
 ## 2)How Object Oriented Programming is relates to Real world ?
 
@@ -37,3 +38,9 @@ will be divide as classes.
 - OOP helps to keep the JAVA code DRY "Don't Repeat Yourself"
 - OOPs provides code reusability which reduce the duplication of code because once you have duplicate code, you have make changes everywhere which leads to performance.
 - Code can be changed anytime as per our requirement  in the application, OOPs makes it easier.
+
+## 4)Disadvanteges of OOPs?
+- ***Larger program size:*** Object-oriented programs typically involve more lines of code than procedural programs. 
+- ***Slower programs:*** Object-oriented programs are typically slower than procedure-based programs, as they typically require more instructions to be executed.
+- ***Not suitable for all types of problems:*** The problems like functional-programming style, logic-programming style, or procedure-based
+programming style, and applying object-oriented programming in those situations will not result in efficient programs. 
