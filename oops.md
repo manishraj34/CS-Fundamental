@@ -122,3 +122,5 @@ polymorphism then it is an Object-oriented programming language.
 
 ## 18) OBJECT vs CLASS
 ![image](https://user-images.githubusercontent.com/102239780/213229913-2b984cc0-94da-4d4a-b1fb-720301f902e3.png)
+
+
