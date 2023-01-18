@@ -84,3 +84,27 @@ polymorphism then it is an Object-oriented programming language.
 4. Public: The access level of a public modifier is **everywhere**. It can be accessed from within the class, outside the class, within the package and outside the package.
 
 ![image](https://user-images.githubusercontent.com/102239780/213178448-16be1d35-0548-4b13-9a4d-652ac9776799.png)
+
+## 11) Member Functions
+- Member functions are the functions, which have their declaration inside the class definition and works on the data members of the class.
+- The definition of member functions can be inside or outside the definition of class.
+- If the member function is defined inside the class definition it can be defined directly, but if its defined outside the class, then we have to use the scope resolution :: operator along with class name alng with function name.
+
+## 12) Constroctors in java
+- Constructor is a type of method which is created at the time of object creation.
+- Every time an object is created using the new() keyword, at least one constructor is called.
+- It calls a default constructor if there is no constructor available in the class. In such case, Java compiler provides a default constructor by default.
+- There are two types of constructors in Java: no-arg constructor, and parameterized constructor.
+- It is called constructor because it constructs the values at the time of object creation.
+- https://www.javatpoint.com/java-constructor
+
+## 13) What is the purpose of a default constructor?
+- The default constructor is used to provide the default values to the object like 0, null, etc., depending on the type.
+## 14) Why use the parameterized constructor?
+- The parameterized constructor is used to provide different values to distinct objects. However, you can provide the same values also.
+
+## 15) Constructor Overloading in Java?
+- Same name but different parameter.
+- Constructor overloading in Java is a technique of having more than one constructor with different parameter lists. 
+- They are arranged in a way that each constructor performs a different task. 
+-   They are differentiated by the compiler by the number of parameters in the list and their types.
