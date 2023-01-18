@@ -108,3 +108,17 @@ polymorphism then it is an Object-oriented programming language.
 - Constructor overloading in Java is a technique of having more than one constructor with different parameter lists. 
 - They are arranged in a way that each constructor performs a different task. 
 -   They are differentiated by the compiler by the number of parameters in the list and their types.
+
+## 16) can we have more than one constructor in a class
+- Yes, a class can have multiple constructors. These constructors can have different parameters, allowing for multiple ways to initialize an object of the class. They are often called "overloaded constructors."
+
+## 17) Destroctor
+- It is a special method that automatically gets called when an object is no longer used.
+- In Java, when we create an object of the class it occupies some space in the memory (heap). If we do not delete these objects, it remains in the memory and occupies unnecessary space. To resolve this problem, we use the destructor.
+- The destructor is the opposite of the constructor.
+- there is no concept of destructor in Java. In place of the destructor, Java provides the garbage collector that works the same as the destructor.
+- The Java Object class provides the finalize() method that works the same as the destructor
+- https://www.javatpoint.com/java-destructor
+
+## 18) OBJECT vs CLASS
+![image](https://user-images.githubusercontent.com/102239780/213229913-2b984cc0-94da-4d4a-b1fb-720301f902e3.png)
