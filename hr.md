@@ -17,7 +17,7 @@
 -  My name is Manish Raj Panigrahi, I am from Kalahandi,odisha. Currently i am Pursuing my B.tech degree In GIET University gunupur In the domain of ECE.I completed my intermediate at Vikas Residensial college and matriculation at s.s.v.m Brajavihar.
 
 #### Technical skills:-
-- I have a deep intrest in web development. I have made 3 froentend Project using Javascript,Reactjs,nodejs and stripe and database like firebase and Familiarity with code versioning tools like Git and GitHub. Apart from that i also worked as Content createor internship with Silverlabs Private Limited company in my 5th semester.
+- I have a deep intrest in web development. I have made 3 froentend Project using Javascript,Reactjs,nodejs and stripe and database like firebase. Apart from that i also worked as Content createor internship with Silverlabs Private Limited company in my 5th semester.
 - I am having basic knowledge on java Programing language,OOPs and Data Structure Algorithms.
 
 #### strength
