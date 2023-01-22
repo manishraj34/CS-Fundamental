@@ -2,7 +2,7 @@
 
 ## 1)about Highradius/accenture/our company ?
 
-- Yours is one of the quickest developing and driving IT firms in India.
+- **Company name** is one of the quickest developing and driving IT firms in India.
 - I read on Your website that Highradius is a fintech Enterprices Softerware as a Service (saas)company.
 - Sashi Narahari is the Prisident/CEO/CO-FOUNDER of High radius.
 - I Know, who is a part of this organization is very happy working hear.So i actually have good chance to point out my talent.
@@ -12,24 +12,19 @@
 **(told about u,technical skills and projects and internships)**
 
 #### told about u (Name,place,higest education):-
-- Good morning sir, I am Om Prakash Pattjoshi, I am from Kalahandi,odisha.I stated my education in s.s.v.m Dharmagarh.
-then i shift my higher education in vikash recidential collage Bh.patana. Now i am Pursuing my B.tech In GIET University gunupur. In the domain of CSE.
+- Good morning sir/mam, 
+- Thank u for the oppertunity to introduce myself.
+-  My name is Manish Raj Panigrahi, I am from Kalahandi,odisha. Currently i am Pursuing my B.tech degree In GIET University gunupur In the domain of ECE.I completed my intermediate at Vikas Residensial college and matriculation at s.s.v.m Brajavihar.
 
 #### Technical skills:-
-- I am quite good in java Programing language.and and web Development.
+- I have a deep intrest in web development. I have made 3 froentend Project using Javascript,Reactjs,nodejs and stripe and database like firebase and Familiarity with code versioning tools like Git and GitHub. Apart from that i also worked as Content createor internship with Silverlabs Private Limited company in my 5th semester.
+- I am having basic knowledge on java Programing language,OOPs and Data Structure Algorithms.
 
-- I have Worked on Front-end technologies(HTML5, CSS3, BootStraps5, Sass, JavaScriptES6, material UI, and other JS Libraries like React.js), 
-Back-end technologies(Node,Express.js)Database(MongoDB), Familiarity with code versioning tools ( Git, GitHub) and UI UX design (Figma, Adobe Photoshop) for almost a year and had done several projects.
-
-Secured Winners at Web of War. The Event was Organised by GIET University in a Tech-fest in March 2022.
-
-Strong knowledge of OOPs, Operating Systems, DBMS, Computer Networks, and Software Engineering, java, and Data Structure Algorithm with hands-on experience in web development tools
-
-#### projects
-- I create several Project in web development .My meajor are Project include  -,-,_ using MERN stack.
+#### strength
+- my greatest strength is adaptability and flixiability. I can adaptable and flexible to any situation at any time.
 
 #### Hobbies
-- When I am not working I usually spend my time listening to the podcast & learning is constant.
+- When I am not working I usually spend my time by listening music.(bolloywood song i prefer, Arijit sing, Arman Mallik)
 
 ---
 
@@ -74,7 +69,7 @@ Strong knowledge of OOPs, Operating Systems, DBMS, Computer Networks, and Softwa
 # 14)what is strength and weakness?
 
 - **strength**
-- I think my greatest strength is i am a calm person. It's bring me new idea in my Mind and and I can get my work done even in the face of difficult obstacles.
+- I think my greatest strength is adaptability and flixiability. I can adaptable and flexible to any situation at any time.
 
 - **weakness**
 - My Biggest weakness is that i trust people very easily.Sometimes, it hurts me because i feel cheated, But many times,that habit helps me make good friends for life.
