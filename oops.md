@@ -176,3 +176,25 @@ polymorphism then it is an Object-oriented programming language.
 - https://www.javatpoint.com/final-keyword
 
 ## 24) explicit keyword
+
+- Explicit Keyword in C++ is used to mark constructors to not implicitly convert types in C++. It is optional for constructors that take exactly one argument and work on constructors(with a single argument) since those are the only constructors that can be used in typecasting.
+
+## 25) this keyword
+- In Java, this is a reference variable that refers to the current object.
+- ![image](https://user-images.githubusercontent.com/102239780/214580873-dd806ee6-a3c4-42c3-b2d5-29cac265464f.png)
+
+
+- https://www.javatpoint.com/this-keyword
+
+## 26) new keyword
+- It is used to create the object.
+- It allocates the memory at runtime.
+- All objects occupy memory in the heap area.
+- https://www.javatpoint.com/new-keyword-in-java
+
+## 27) const keyword
+- there is no concept of const keyword in java.
+- **why**     Java allows us to declare constants by using final keyword.
+
+## 28) super keyword
+- ![image](https://user-images.githubusercontent.com/102239780/214587213-2d51e623-d924-4304-8650-ac65b22ff352.png)
