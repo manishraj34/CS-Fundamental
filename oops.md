@@ -124,3 +124,55 @@ polymorphism then it is an Object-oriented programming language.
 ![image](https://user-images.githubusercontent.com/102239780/213229913-2b984cc0-94da-4d4a-b1fb-720301f902e3.png)
 
 
+## 19) Real World analog of object and class
+- https://www.c-sharpcorner.com/blogs/real-life-examples-of-object-oriented-programming1
+
+## 20) Static Keyword
+- The static keyword belongs to the class than an instance of the class.
+- The static keyword in Java is used for memory management mainly.
+- The static can be:
+    1) Variable (also known as a class variable)
+    2) Method (also known as a class method)
+    3) Block
+    4) Nested class
+- static methods can be called without creating an object of the class.
+- A static variable is one that's associated with a class, not instance (object) of that class.
+- They are initialized only once , at the start of the execution . 
+- https://www.javatpoint.com/static-keyword-in-java
+
+# 21)What are virtual keywords?
+
+- The virtual keyword is used to modify a method, property, indexer, or event declaration and allow for it to be overridden in a derived class.
+
+- The virtual keyword is not used in Java.
+
+# [why virtual keyword is used](https://www.codeproject.com/Questions/270054/why-virtual-keyword-is-used)
+
+- Marking a method as virtual means you can override it in derived classes, but you don't have to.
+-  If you mark a method as abstract, you are subsequently forced by the compiler to override it in any derived classes.
+
+## 22) Abstract Keyword
+- The abstract keyword is used to achieve abstraction in Java. 
+- 'abstract' keyword is used to declare the method or a class as abstract.
+- - Abstract classes may or may not contain abstract methods, i.e., methods without a body ( public void get(); )
+- But, if a class has at least one abstract method, then the class must be declared abstract.
+- *If a class is declared abstract, it cannot be instantiated.*
+- To use an abstract class, you have to inherit it from another class, provide implementations for the abstract methods in it.
+- If you inherit an abstract class, you have to provide implementations to all the abstract methods in it.
+
+- https://www.javatpoint.com/abstract-keyword-in-java
+- https://www.tutorialspoint.com/abstract-keyword-in-Java
+
+## 23) Final keyword
+- The final keyword in java is used to restrict the user.
+- Final can be:
+    - variable
+    - method
+    - class
+- If we declare a variable as final then we can not change the value of it.
+- If we declare a method as final then we can not override it.
+- If we declare a class as final then we can not inherit it.
+
+- https://www.javatpoint.com/final-keyword
+
+## 24) explicit keyword
