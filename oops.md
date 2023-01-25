@@ -198,3 +198,67 @@ polymorphism then it is an Object-oriented programming language.
 
 ## 28) super keyword
 - ![image](https://user-images.githubusercontent.com/102239780/214587213-2d51e623-d924-4304-8650-ac65b22ff352.png)
+
+# Polymorphism
+
+## 1) What is Polymorphism 
+- it is a combinaton of 2 towd Poly and morphism 
+- Poly means :- many  and morphism :- forms = manyforms
+- whose meaning is **Same object having different behavior**
+- example- let us consider i am an object. In my home, office and friend circle i act as different. Here object is same that is I but behaviour is different. This is a real time example of polymerphysm.
+
+- **NEED** (allows us to reuse code by creating one function that's usable for multiple uses.)
+- https://www.javatpoint.com/runtime-polymorphism-in-java
+
+
+## 2) Overloading
+- https://www.javatpoint.com/method-overloading-in-java
+- Method overloading is used for compiletime polymorphism
+- If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.
+
+## 3) Overriding
+- https://www.javatpoint.com/method-overriding-in-java
+- If subclass (child class) has the same method as declared in the parent class, it is known as method overriding in Java.
+- Method overriding is used to provide the specific implementation of a method which is already provided by its superclass.
+- Method overriding is used for runtime polymorphism
+## 4) Compile time polymerphism
+- Compile-time polymorphism is obtained through method overloading. The term method overloading allows us to have more than one method with the same name. Since this process is executed during compile time, that's why it is known as Compile-Time Polymorphism.
+- https://www.dineshonjava.com/compile-time-polymorphism-in-java/
+
+
+## 5) Operators that cannot be overloaded in C++
+- In C++ we can overload some operators like +, -, [], -> etc. But we cannot overload any operators in it. Some of the operators cannot be overloaded. These operators are like below
+
+    - ? “.” Member access or dot operator
+    - ? “? : ” Ternary or conditional operator
+    - ? “::” Scope resolution operator
+    - ? “.*” Pointer to member operator
+    - ? “sizeof” The object size operator
+    - ? “typeid” Object type operator
+- These operators cannot be overloaded because if we overload them it will make serious programming issues.
+
+- For an example the sizeof operator returns the size of the object or datatype as an operand. This is evaluated by the compiler. It cannot be evaluated during runtime. So we cannot overload it.
+
+
+## 6)Functions that cannot be overloaded in C++
+1) Function declarations that differ only in the return type.
+2) Member function declarations with the same name and the name parameter-type-list cannot be overloaded if any of them is a static member function declaration.
+3) Parameter declarations that differ only in a pointer * versus an array [] are equivalent.
+4) Parameter declarations that differ only in that one is a function type and the other is a pointer to the same function type are equivalent. 
+5) Parameter declarations that differ only in the presence or absence of const and/or volatile are equivalent. That is, the const and volatile type-specifiers for each parameter type are ignored when determining which function is being declared, defined, or called. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
