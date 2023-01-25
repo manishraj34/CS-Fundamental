@@ -247,13 +247,43 @@ polymorphism then it is an Object-oriented programming language.
 4) Parameter declarations that differ only in that one is a function type and the other is a pointer to the same function type are equivalent. 
 5) Parameter declarations that differ only in the presence or absence of const and/or volatile are equivalent. That is, the const and volatile type-specifiers for each parameter type are ignored when determining which function is being declared, defined, or called. 
 
+## 7) virtual function
+- A C++ virtual function is a member function in the base class that you redefine in a derived class. It is declared using the virtual keyword.
+- It is used to tell the compiler to perform dynamic linkage or late binding on the function.
+- There is a necessity to use the single pointer to refer to all the objects of the different classes. So, we create the pointer to the base class that refers to all the derived objects. But, when base class pointer contains the address of the derived class object, always executes the base class function. This issue can only be resolved by using the 'virtual' function.
+- A 'virtual' is a keyword preceding the normal declaration of a function.
+- When the function is made virtual, C++ determines which function is to be invoked at the runtime based on the type of the object pointed by the base class pointer.
 
+## 8) Virtual base class
 
+- Virtual base classes are used in virtual inheritance in a way of preventing multiple “instances” of a given class appearing in an inheritance hierarchy when using multiple inheritances. 
+- Need for Virtual Base Classes: Consider the situation where we have one class A . This class A is inherited by two other classes B and C. Both these class are inherited into another in a new class D as shown in figure below. 
 
+## 9) What Does Derived Class Mean?
+- A derived class is a class created or derived from another existing class. The existing class from which the derived class is created through the process of inheritance is known as a base class or superclass.
 
+- Derived classes are used for augmenting the functionality of base class by adding or modifying the properties and methods to suit the requirements of the specialization necessary for derived class. This allows for defining virtual methods that form the means to implement polymorphism, which allows a group of objects to work in uniform manner. Thus, the inherent advantages of inheritance and polymorphism like code reuse, faster development, easy maintenance, etc., are realized.
 
+- A derived class is also known as subclass or child class.
+## 10) Can Virtual Functions be Private in C++?
+- A virtual function can be private as C++ has access control, but not visibility control. As mentioned virtual functions can be overridden by the derived class but under all circumstances will only be called within the base class.
 
+## 11)inline virtual functions
 
+- https://stackoverflow.com/questions/733737/are-inline-virtual-functions-really-a-non-sense
+
+## 12)Abstraction
+- A class which is declared with the abstract keyword is known as an abstract class in Java. It can have abstract and non-abstract methods.
+- Abstraction in Java
+- Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+- Another way, it shows only essential things to the user and hides the internal details, for example, sending SMS where you type the text and send the message. You don't know the internal processing about the message delivery.
+
+## 13)Pure Virtual Functions
+- A pure virtual function (or abstract function) in C++ is a virtual function for which we can have implementation, But we must override that function in the derived class, otherwise the derived class will also become abstract class.
+- https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/
+
+## 14)pure virtual destructor
+- https://stackoverflow.com/questions/1219607/why-do-we-need-a-pure-virtual-destructor-in-c
 
 
 
