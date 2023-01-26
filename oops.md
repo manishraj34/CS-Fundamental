@@ -382,7 +382,7 @@ Following are the properties which a derived class doesn’t inherit from its pa
 2) The base class’s friend functions.
 3) Overloaded operators of the base class.
 
-##
+## 
 
 
 
