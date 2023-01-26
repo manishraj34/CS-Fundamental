@@ -382,9 +382,90 @@ Following are the properties which a derived class doesn’t inherit from its pa
 2) The base class’s friend functions.
 3) Overloaded operators of the base class.
 
-## 
+## Inline function
+- C++ provides an inline functions to reduce the function call overhead.
+- Inline function is a function that is expanded in line when it is called. 
+- 
+## friend class
+- A friend class can access private and protected members of other classes in which it is declared as a friend. 
+
+## Friend Function
+- Like a friend class, a friend function can be granted special access to private and protected members of a class in C++.
+- 
+## Nested class 
+- Writing a class within another is allowed in Java. 
+- The class written within is called the nested class
+
+## Local class
+- Local classes are classes that are defined in a block, which is a group of zero or more statements between balanced braces. 
+
+## Does overloading work with Inheritance?
+- Overloading doesn’t work for derived class in the C++ programming language. There is no overload resolution between Base and Derived. 
+
+## [Difference between Inheritance and Polymorphism](https://www.geeksforgeeks.org/difference-between-inheritance-and-polymorphism/)
+
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/78966839/214883002-9592ce84-376b-44f7-8680-b821ff0d9bd5.png">
+
+## [Aggregation, Composition, Generalization](https://javapapers.com/oops/association-aggregation-composition-abstraction-generalization-realization-dependency/)
+
+## [Encapsulation in Java](https://www.javatpoint.com/encapsulation)
+
+- Encapsulation in Java is a process of wrapping code and data together into a single unit.
+
+- for example, a capsule which is mixed of several medicines.
+
+- The Java Bean class is the example of a fully encapsulated class.
+
+## Need  
+
+- In Java, encapsulation helps us to *keep related fields and methods together, which makes our code cleaner and easy to read.*
+
+- The encapsulate class is *easy to test.* So, it is better for unit testing.
+
+## Advantage
+
+- It is a way to achieve *data hiding* in Java because other class will not be able to access the data through the private data members.
+
+- The class will maintain its data members and methods as read-only.
+
+- Data hiding prevents the user from the complex implementations in the code.
 
 
+- The variables of the class can be read-only or write-only as per the programmer's requirement.
+
+## Encapsulation in Java can be achieved by:
+- Encapsulation is achieved in java language by class concept.
+- Declaring the variables of a class as private.
+
+## [Encapsulation code/implimentation example](https://beginnersbook.com/2013/05/encapsulation-in-java/)
 
 
+## [Real world example of encapsulation](https://www.sitesbay.com/java/java-encapsulation)
+
+## Abstraction
+
+- hiding the Internal details and shows only the required one to user
+
+- We cannot create an instance of Abstract Class.
+
+- It reduces the duplication of code.
+
+## [how to achieve abstration using abstract class and interface](https://www.javatpoint.com/how-to-achieve-abstraction-in-java)
+
+## Abstration vs Encapsulation
+- ![image](https://user-images.githubusercontent.com/102239780/214894598-52d3ea1e-095e-4539-8b06-5aa92400f794.png)
+
+## difference between Abstract class and interface
+
+- ![image](https://user-images.githubusercontent.com/102239780/214895627-ffdda30a-4bcd-4981-812b-57ec8c8e6678.png)
+
+## Static Binding and Dynamic Binding
+- ![image](https://user-images.githubusercontent.com/102239780/214897130-f02a9d26-4a34-41fa-b87a-0d328fb8ef4d.png)
+
+## Message Passing
+- Object-oriented programming as a programming paradigm is based on objects. Objects are a representation of real-world and objects communicate with each other via messages.
+
+- When two or more objects communicate with each other that means that those objects are sending and receiving messages. This is often called method calling.
+
+- Sending object (Object A) knows which method of receiving object (Object B) is being called, so it knows more details than needed. With this, we create code which is not loosely coupled. Changes in one object will lead to changes in others too.
 
