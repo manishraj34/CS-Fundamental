@@ -103,6 +103,30 @@ polymorphism then it is an Object-oriented programming language.
 - They are arranged in a way that each constructor performs a different task. 
 -   They are differentiated by the compiler by the number of parameters in the list and their types.
 
+# How constructors are different from a normal member function?
+
+- A constructor is different from normal functions in following ways:
+
+- Constructor has same name as the class itself
+
+- Constructors don’t have return type
+
+- A constructor is automatically called when an object is created.
+
+- If we do not specify a constructor, C++ compiler generates a default constructor for us (expects no parameters and has an empty body).
+
+<img width="536" alt="image" src="https://user-images.githubusercontent.com/78966839/213197340-cdb9f691-9f9a-4706-9fe5-ae607d5f1bbc.png">
+
+# Java Copy Constructor
+- There is no copy constructor in Java. However, we can copy the values from one object to another like copy constructor in C++.
+
+- There are many ways to copy the values of one object into another in Java. They are:
+
+     - By constructor
+     - By assigning the values of one object into another
+     - By clone() method of Object class
+
+
 ## 16) can we have more than one constructor in a class
 - Yes, a class can have multiple constructors. These constructors can have different parameters, allowing for multiple ways to initialize an object of the class. They are often called "overloaded constructors."
 
