@@ -82,7 +82,7 @@ polymorphism then it is an Object-oriented programming language.
 ## 11) Member Functions
 - Member functions are the functions, which have their declaration inside the class definition and works on the data members of the class.
 - The definition of member functions can be inside or outside the definition of class.
-- If the member function is defined inside the class definition it can be defined directly, but if its defined outside the class, then we have to use the scope resolution :: operator along with class name alng with function name.
+- If the member function is defined inside the class definition it can be defined directly, but if its defined outside the class, then we have to use the scope resolution  operator (::) along with class name alng with function name.
 
 ## 12) Constroctors in java
 - Constructor is a type of method which is created at the time of object creation.
