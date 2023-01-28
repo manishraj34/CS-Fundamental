@@ -1,23 +1,17 @@
 # Object Oriented Programming Interview Question
   - To solve real world probem we use OOPS
 
-## Polymorphism 
-- it is a combinaton of 2 towd Poly and morphism 
-- Poly means :- many  and morphism :- forms = manyforms
-- whose meaning is **Same object having different behavior**
 
 
 ## 1) What is oops?
 - OOP stands for Object-Oriented Programming.
 
-- Procedural programming is about writing procedures or functions that perform operations on the data, while object-oriented programming is about creating objects that contain both data and functions.
+- object-oriented programming is about creating objects that contain both data and functions.
 
 - Object-oriented programming has several advantages over procedural programming:
 
-    - OOP is faster and easier to execute
     - OOP provides a clear structure for the programs
     - OOP helps to keep the JAVA code DRY "Don't Repeat Yourself", and makes the code easier to maintain, modify and debug
-    - OOP makes it possible to create full reusable applications with less code and shorter development time
     - It lowers the overall cost of development.
 
 ## 2)How Object Oriented Programming is relates to Real world ?
