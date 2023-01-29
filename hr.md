@@ -111,3 +111,32 @@
 
 - Yes, I can Because according to me working under presser is nothing but a challenge. if we are open to learn new things it is easy to 
 work under pressure. i alwayse set new gols to my life and accept work with love if we love the work we won't feel it as pressure.
+
+## 22)HArdwork vs smartwork?
+- Both are key to success. Hardwork gives experience and smartwork comes with experience
+- According to my point of view Hardwork and smartwork are the path's to grow Both are related to each other with out taking experience of hard word we can not do smart wird.
+- In my case i will do Hard work In Smart way.
+
+
+## 23)what are ur short term and long term goals?
+- My short-term goal is to crack an interview for your company to enhance my skills and knowledge.
+- My long-term goal is to gain knowledge day to day and be a successful person with a positive attitude.
+
+## 24)tell me about ur certifications ***nOT DONE***
+- “I am interested in studying Java. I know it will help build my future, that is why I choose this specific certificate.”
+
+## 25)what are ur acheivemtns in btech ?  ***nOT DONE***
+- time management
+
+## 26)Which subject is a worst subject in ur branch and how u tacle it.  ***nOT DONE***
+
+## 27)WHich technolgy u used in ur project and why?
+
+
+
+
+
+
+
+
+
