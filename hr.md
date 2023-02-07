@@ -129,10 +129,34 @@ work under pressure. i alwayse set new gols to my life and accept work with love
 - time management
 
 ## 26)Which subject is a worst subject in ur branch and how u tacle it.  ***nOT DONE***
+- I think there is no wrost subject related to my branch.Apart from that economics is a worst subject for me. BCZ i find economics concepts are difficult to relate to real-life situations.
+
+- I tackle it by group studies, Try to relate economics concepts to real-life situations, Use visualization tools such as graphs and charts to help understand the concepts better.
 
 ## 27)WHich technolgy u used in ur project and why?
+- My project is related to froent Web development so i used technologies like 
+   1) HTML (Hypertext Markup Language) for creating the structure and content of a website
+   2) CSS (Cascading Style Sheets) for styling and layout
+   3) JavaScript for interactivity and dynamic
+   4) React js which is a library of javascript for  build reusable UI components and manage the state of their applications effectively.
 
 
+## 28)How do u select ur project title and why.
+- I select my project title which is short and to the point, BCZ  it make easier for people to recall and recommend to others.
+
+## 29)Are u extrovert or introvert.
+
+- I am an introvert person,
+- *I behave as per the requirement of the situation*. For e.g. If I am representing the company at an event which requires me to talk to a lot of people, I become an extrovert
+
+
+## 30)What are ur extra curricular activities ?
+- My extra curicular activities include Asana. In Sanskrit, the word asana translates as “seat,” specifically for meditation.I do asana in the morning for 45 minutes.
+- Sirsasna (Sirsasana increases the flow of blood to the brain and other parts of the body)
+- bakasana (Improved balance and stability: )
+- kukudasana (Improved digestion)
+- omkarasana (Sitting in Omkarasana helps to calm the mind and promote mental clarity,)
+- In my scool days i got certificate also in sambhag stariya.
 
 
 
