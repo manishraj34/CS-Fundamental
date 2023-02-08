@@ -158,9 +158,32 @@ work under pressure. i alwayse set new gols to my life and accept work with love
 - omkarasana (Sitting in Omkarasana helps to calm the mind and promote mental clarity,)
 - In my scool days i got certificate also in sambhag stariya.
 
+## 32) Favorite subject in ur curriculam
+- My fav sub is math 
+- **BCZ**  math helps to develop critical thinking skills and problem-solving abilities
+
+## 33)tell me abour ur internhsip and what did u learn
+- i worked as Content createor internship with Silverlabs Private Limited company in my 5th semester.
+- I learn the most important thing that is time management.
+- As an intern in content creation, I contribute by assisting in various tasks related to editing video content for company. Some responsibilities include: Researching and gathering information to be used in content creation,Helping to create visual content such as images, videos.
 
 
+## 34) why should we not hire you?
+- I believe that my company may not want to hire me if they are looking for someone with a specific set of skills or experience that I may not have. However, I am a quick learner and I am willing to take on new challenges to further develop my skills. I am confident that I can bring my strong work ethic, and positive attitude for the role and make a valuable contribution to the team.
 
+## 35) what movies/series u watched recently,give me a breif about it.
 
+## 36) how do u manage ur project and what's ur role in it?
+- I believe that effective project management is all about clear communication, planning. 
+- I start each project by setting clear goals and creating a detailed plan of action, breaking the project down into smaller, manageable tasks. 
+- I then assign responsibilities to team members based on their strengths and ensure that everyone has a clear understanding of their role. 
+-  As for my role, i handle the froentend part of project.
+
+## 37)what makes u happy or sad?
+- I do meditate and exercise on a regular basis which keeps me fit. Vacationing with my family and friends also makes me feel happy.
+
+- *sad* When someone takes me for granted, don't listen to me and points out my mistake even without knowing the truth.
+
+## 38) which programming language you like and why and also rate ur skills in 1-10.
 
 
