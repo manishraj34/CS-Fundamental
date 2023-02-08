@@ -84,6 +84,8 @@ polymorphism then it is an Object-oriented programming language.
 - The definition of member functions can be inside or outside the definition of class.
 - If the member function is defined inside the class definition it can be defined directly, but if its defined outside the class, then we have to use the scope resolution  operator (::) along with class name alng with function name.
 
+# CONSTRUCTORS
+
 ## 12) Constroctors in java
 - Constructor is a type of method which is created at the time of object creation.
 - Every time an object is created using the new() keyword, at least one constructor is called.
@@ -144,6 +146,8 @@ polymorphism then it is an Object-oriented programming language.
 
 ## 19) Real World analog of object and class
 - https://www.c-sharpcorner.com/blogs/real-life-examples-of-object-oriented-programming1
+
+# Different Keywords
 
 ## 20) Static Keyword
 - The static keyword belongs to the class than an instance of the class.
