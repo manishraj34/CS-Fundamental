@@ -247,6 +247,8 @@ polymorphism then it is an Object-oriented programming language.
 - Compile-time polymorphism is obtained through method overloading. The term method overloading allows us to have more than one method with the same name. Since this process is executed during compile time, that's why it is known as Compile-Time Polymorphism.
 - https://www.dineshonjava.com/compile-time-polymorphism-in-java/
 
+## Runtime polymorphism
+Runtime polymorphism, also known as the Dynamic Method Dispatch, is a process that resolves a call to an overridden method at runtime. The process involves the use of the reference variable of a superclass to call for an overridden method
 
 ## 5) Operators that cannot be overloaded in C++
 - In C++ we can overload some operators like +, -, [], -> etc. But we cannot overload any operators in it. Some of the operators cannot be overloaded. These operators are like below
