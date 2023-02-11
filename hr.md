@@ -185,5 +185,10 @@ work under pressure. i alwayse set new gols to my life and accept work with love
 - *sad* When someone takes me for granted, don't listen to me and points out my mistake even without knowing the truth.
 
 ## 38) which programming language you like and why and also rate ur skills in 1-10.
+- **java** I like JAVA prog language because It is a popular and widely-used programming language and  Java is object-oriented. This allows us to create reusable code.also it is secure.
+- **python**I like python prog language because Python is a popular and widely-used programming language known for its simplicity, readability, and has a simple and easy-to-read syntax, 
+- i would rate myself 7 out of 10 in python/java.
+
+## 39)what are the leadership quality do u have ?
 
 
