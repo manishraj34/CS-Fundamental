@@ -191,4 +191,65 @@ work under pressure. i alwayse set new gols to my life and accept work with love
 
 ## 39)what are the leadership quality do u have ?
 
+# 40) If you have more than one company in ur hand ,on what basis do u select ur company
+
+- When choosing between multiple companies, I prioritize the company culture and values. I look for a company that has a positive and collaborative work environment, with a focus on teamwork and employee engagement. Additionally, I prioritize opportunities for growth and development, such as training and mentorship programs. Lastly, I consider the compensation package and ensure it aligns with my expectations and salary requirements.
+
+# 41)How long years u worked for company  after we hired u ?
+
+- Sir, I am not that person who takes experience and leave the company.
+
+I will stay in your company as long as I can & I will try to move the company at the best position.
+
+
+# 42) Who Is your Favourite Teacher in your school ?
+
+# 43) Tell me abt ur family ?
+
+- I have a small family of three - myself, my mom, and my Fater. My Father is   retired teacher , and mom is house-wife , and we enjoy spending time together.  My family has taught me the importance of hard work and perseverance, and I believe that these values have helped me in my career
+
+# 44)what do u do in ur free time?
+
+- When I am not working I usually spend my time listening to the podcast & learning is constant.
+
+-  I find that listening to podcasts can be a great way to expand your knowledge.
+
+
+# 45)what do u learn from enggineering?
+
+- During my engineering education, I learned a wide range of technical skills, problem-solving techniques, and soft skills that have been valuable in my career.
+
+-  For example, I learned how to use various software and programming languages that are commonly used in the field, . Additionally, I worked on several group projects that helped me develop strong teamwork and communication skills.
+
+-   I believe that my engineering background has helped me develop a strong analytical mindset, attention to detail, and the ability to approach problems methodically.
+
+-   I'm excited to apply these skills and knowledge to the position I'm applying for and to continue learning and growing in my career.
+
+# 46)Did you fail anytime ? What you learn from it ?
+
+# 47)Difference between Product based and Service based Companies ?
+
+- *Product-based companies* manufacture and sell physical or digital products. They invest in research and development to design and create products that meet the needs of their customers. They then market and sell these products to consumers or other businesses.
+-  Examples of product-based companies include Apple, Samsung, Nike, and Procter & Gamble.
+
+
+- *Service-based companies*, on the other hand, provide services to their customers. These can be professional, technical, or other types of services. They focus on creating value by solving problems, meeting needs, or fulfilling requests of their clients. Service-based companies rely on skilled personnel to deliver their services and may provide customized solutions to individual clients.
+
+- Examples of service-based companies include Tcs,wipro,infosis
+
+
+# 48) who has inspired u in ur life and why?
+
+- One person who has inspired me is my Father.
+- He is a hardworking and dedicated man who always put his family first. 
+- He taught me the value of hard work, integrity, and the importance of helping others.
+- I believe that ethics and principles really matter in my life.
+
+
+# 49)what are ur career and personal goal?
+
+- *My career goal* is to become a senior manager within the next five years. I plan to achieve this by gaining more experience in my current role, taking on additional responsibilities, and continuing my professional development through courses and training programs.
+
+
+- *One of my personal goals* is to build a happy and fulfilling personal life. I am looking forward to getting married to my partner who I deeply love, and building a strong and loving relationship with them. I believe that having a supportive personal life will help me to be more focused, motivated, and productive in my professional career.
 
