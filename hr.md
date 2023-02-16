@@ -51,7 +51,7 @@
 # 8) What are ur hobbies and why?
 
 - My hobbies is listening music. 
-- **why** Because it Improves my communication skill Another great benefit of listening to podcasts is that you can learn new things.
+- **why** Because Listening to music is Great confidence booster , good for health, You can relax and forget about all your troubles, improves your memory.
 
 # 9)Where do u want to see urself after 5 yrs?
 
