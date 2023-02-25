@@ -493,3 +493,109 @@ Following are the properties which a derived class doesn’t inherit from its pa
 
 - Sending object (Object A) knows which method of receiving object (Object B) is being called, so it knows more details than needed. With this, we create code which is not loosely coupled. Changes in one object will lead to changes in others too.
 
+
+# MISC
+
+# [c vs c++ vs java](https://www.javatpoint.com/c-vs-cpp-vs-java)
+
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/78966839/221225660-f15f129a-f24a-4d43-b4fa-103f6b0e797d.png">
+
+
+# [Differences between Procedural and Object Oriented Programming](https://www.geeksforgeeks.org/differences-between-procedural-and-object-oriented-programming/)
+
+
+- *Procedural programming* is a programming  that focuses on defining a series of procedures  to be *executed in a specific order*. to solve a problem.
+
+- *Object-oriented programming (OOP)* is about crating objects that contain both data and function.
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/78966839/221229332-1e657390-35af-40d2-a1fc-36637f1cac9c.png">
+
+
+# Why Java is not a purely Object-Oriented Language?
+
+- Pure Object Oriented Language  are Fully Object Oriented Language which supports or have features *which treats everything inside program as objects.*
+
+- However, it is not a purely object-oriented language because it also *includes primitive types, such as int, double, and boolean, which are not objects.*
+
+
+# [Is an array a primitive type or an object in Java?](https://www.geeksforgeeks.org/array-primitive-type-object-java/)
+
+- *An array in Java is an object*
+
+- *How* :- In Java, we can create arrays by using new operator and we know that every object is created using new operator. Hence we can say that array is also an object.
+
+
+# what is early and late binding ?
+
+- *early* (or static) binding refers to *compile time binding* and *late* (or dynamic) binding refers to *runtime binding* (for example when you use reflection).
+
+# What is the default access modifier of a class?
+
+- In Java, if no access modifier is specified for a class, it has a default access modifier, which means it can be accessed *only within the same package*.
+
+# [Can we create instance to abstract class?](https://www.quora.com/Can-we-create-instance-to-abstract-class)
+
+- abstract class *cannot be instantiated directly. This means that you **cannot create an object of an abstract class.*
+
+- Because it's abstract and an object is concrete.
+
+- Instead, you must create a concrete subclass that extends the abstract class and provides implementations for any abstract methods defined in the abstract class.
+
+- Once you have created a concrete subclass that extends the abstract class, you can create as many instances of that subclass as you need
+
+# [What is Java Garbage Collection? How It Works](https://stackify.com/what-is-java-garbage-collection/)
+
+- Garbage collection is the process by which a programming language runtime environment automatically *frees up memory that is no longer being used by a program.*
+
+- In Java, when we create an object of the class it occupies some space in the memory (heap). If we do not delete these objects, it remains in the memory and occupies unnecessary space. To resolve this problem, we use the destructor.
+
+- When an object completes its life-cycle the garbage collector deletes that object and deallocates or releases the memory occupied by the object.
+
+# [Defin Manipulators](https://www.geeksforgeeks.org/manipulators-in-c-with-examples/)
+
+- Manipulators are helping functions that can modify the input/output stream.
+
+-  It does not mean that we change the value of a variable, it only modifies the I/O stream using insertion (<<) and extraction (>>) operators. 
+
+- Manipulators are operators that are used to format the data display.
+
+# [What is the final keyword in Java?](https://www.javatpoint.com/final-keyword)
+
+- The "final" keyword in Java is used to indicate that a variable, method, or class cannot be modified.
+
+- If we declare a variable as final then we can not change it value.
+
+- If we declare a method as final then we can not override it.
+
+- If we declare a class as final then we can not inherit it.
+
+# [What Is an Exception?](http://www.iitk.ac.in/esc101/05Aug/tutorial/essential/exceptions/definition.html)
+
+- An exception is an event that occurs during the execution of a program that *disrupts the normal flow* of instructions during the execution of a program.
+
+- When an exception occurs, the program's normal execution is interrupted and the control is transferred to an exception handler that can handle the exception.
+
+
+#  Exception handling 
+
+- Exception handling is a mechanism in Java that allows you to handle errors or exceptional situations that may occur during the execution of a program.
+-  In Java, an exception is an event that occurs during the execution of a program that disrupts the normal flow of the program's instructions.
+
+Exception handling in Java involves three main components:
+
+- *Try:* A try block contains the code that may throw an exception. You enclose the code that may throw an exception in a try block.
+
+- *Catch:* A catch block contains the code that handles the exception. If an exception occurs in the try block, the catch block is executed to handle the exception. 
+
+- *Finally:* A finally block contains code that is always executed.
+
+
+# is an error is basiccaly same as an exception
+
+- No, an error is not basically the same as an exception.
+
+- while both errors and exceptions are types of abnormal events.
+-  An error is a *serious system-level problem* that is usually fatal.
+-  while an exception is a type of error that occurs within the program's code and can be caught and handled within the program's code.
+
+- if error occer program will stop.if exception accer program will run but it may not give the expected O/P.
