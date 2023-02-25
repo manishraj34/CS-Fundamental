@@ -82,7 +82,7 @@
 
 # 16)How would be u a asset to our company?
 - Over the years, I have acquired relevant skills and experience, which I shall bring to your organization.
-- I assure you that I give 100 % best to the company through hard work and leadership skills. I think it will be a great asset to my company.
+- I assure you that I give my best to the company and I try to exceed my superior’s expectations through hard work and leadership skills. I think it will be a great asset to the company.
 
 # 17)Question to interviewr?
 - What are the skills and experiences you’re looking for in an ideal candidate?
