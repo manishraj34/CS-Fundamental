@@ -644,3 +644,8 @@ Exception handling in Java involves three main components:
 
 # Difference Between Cohesion and Coupling
 ![image](https://user-images.githubusercontent.com/102239780/221342254-8112cdd5-d611-4651-9085-8190b052e67b.png)
+
+# is it possible for a class to inherit the constructor of its base class
+- Yes, it is possible for a class to inherit the constructor of its base class. In object-oriented programming, when a subclass is derived from a base class, it automatically inherits all the members of the base class, including constructors.
+
+
